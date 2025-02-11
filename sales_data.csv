@@ -1,0 +1,101 @@
+Year,Region,Product,Units Sold,Revenue
+2019,North America,Product A,1000,10000.0
+2019,North America,Product B,1000,10000.0
+2019,North America,Product C,1000,10000.0
+2019,North America,Product D,1000,10000.0
+2019,Europe,Product A,1000,10000.0
+2019,Europe,Product B,1000,10000.0
+2019,Europe,Product C,1000,10000.0
+2019,Europe,Product D,1000,10000.0
+2019,Asia,Product A,1000,10000.0
+2019,Asia,Product B,1000,10000.0
+2019,Asia,Product C,1000,10000.0
+2019,Asia,Product D,1000,10000.0
+2019,South America,Product A,1000,10000.0
+2019,South America,Product B,1000,10000.0
+2019,South America,Product C,1000,10000.0
+2019,South America,Product D,1000,10000.0
+2019,Africa,Product A,1000,10000.0
+2019,Africa,Product B,1000,10000.0
+2019,Africa,Product C,1000,10000.0
+2019,Africa,Product D,1000,10000.0
+2020,North America,Product A,1100,11000.0
+2020,North America,Product B,1100,11000.0
+2020,North America,Product C,1100,11000.0
+2020,North America,Product D,1100,11000.0
+2020,Europe,Product A,1100,11000.0
+2020,Europe,Product B,1100,11000.0
+2020,Europe,Product C,1100,11000.0
+2020,Europe,Product D,1100,11000.0
+2020,Asia,Product A,1100,11000.0
+2020,Asia,Product B,1100,11000.0
+2020,Asia,Product C,1100,11000.0
+2020,Asia,Product D,1100,11000.0
+2020,South America,Product A,1100,11000.0
+2020,South America,Product B,1100,11000.0
+2020,South America,Product C,1100,11000.0
+2020,South America,Product D,1100,11000.0
+2020,Africa,Product A,1100,11000.0
+2020,Africa,Product B,1100,11000.0
+2020,Africa,Product C,1100,11000.0
+2020,Africa,Product D,1100,11000.0
+2021,North America,Product A,1200,12000.0
+2021,North America,Product B,1200,12000.0
+2021,North America,Product C,1200,12000.0
+2021,North America,Product D,1200,12000.0
+2021,Europe,Product A,1200,12000.0
+2021,Europe,Product B,1200,12000.0
+2021,Europe,Product C,1200,12000.0
+2021,Europe,Product D,1200,12000.0
+2021,Asia,Product A,1200,12000.0
+2021,Asia,Product B,1200,12000.0
+2021,Asia,Product C,1200,12000.0
+2021,Asia,Product D,1200,12000.0
+2021,South America,Product A,1200,12000.0
+2021,South America,Product B,1200,12000.0
+2021,South America,Product C,1200,12000.0
+2021,South America,Product D,1200,12000.0
+2021,Africa,Product A,1200,12000.0
+2021,Africa,Product B,1200,12000.0
+2021,Africa,Product C,1200,12000.0
+2021,Africa,Product D,1200,12000.0
+2022,North America,Product A,1300,13000.0
+2022,North America,Product B,1300,13000.0
+2022,North America,Product C,1300,13000.0
+2022,North America,Product D,1300,13000.0
+2022,Europe,Product A,1300,13000.0
+2022,Europe,Product B,1300,13000.0
+2022,Europe,Product C,1300,13000.0
+2022,Europe,Product D,1300,13000.0
+2022,Asia,Product A,1300,13000.0
+2022,Asia,Product B,1300,13000.0
+2022,Asia,Product C,1300,13000.0
+2022,Asia,Product D,1300,13000.0
+2022,South America,Product A,1300,13000.0
+2022,South America,Product B,1300,13000.0
+2022,South America,Product C,1300,13000.0
+2022,South America,Product D,1300,13000.0
+2022,Africa,Product A,1300,13000.0
+2022,Africa,Product B,1300,13000.0
+2022,Africa,Product C,1300,13000.0
+2022,Africa,Product D,1300,13000.0
+2023,North America,Product A,1400,14000.0
+2023,North America,Product B,1400,14000.0
+2023,North America,Product C,1400,14000.0
+2023,North America,Product D,1400,14000.0
+2023,Europe,Product A,1400,14000.0
+2023,Europe,Product B,1400,14000.0
+2023,Europe,Product C,1400,14000.0
+2023,Europe,Product D,1400,14000.0
+2023,Asia,Product A,1400,14000.0
+2023,Asia,Product B,1400,14000.0
+2023,Asia,Product C,1400,14000.0
+2023,Asia,Product D,1400,14000.0
+2023,South America,Product A,1400,14000.0
+2023,South America,Product B,1400,14000.0
+2023,South America,Product C,1400,14000.0
+2023,South America,Product D,1400,14000.0
+2023,Africa,Product A,1400,14000.0
+2023,Africa,Product B,1400,14000.0
+2023,Africa,Product C,1400,14000.0
+2023,Africa,Product D,1400,14000.0
